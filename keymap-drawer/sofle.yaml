@@ -52,7 +52,7 @@ layers:
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
-  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - $$mdi:apple-keyboard-caps$$
   - $$mdi:volume-off$$
   - $$mdi:arrow-up-bold$$
   - $$mdi:apple-keyboard-command$$
